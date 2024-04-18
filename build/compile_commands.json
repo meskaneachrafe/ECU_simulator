@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/a.meskane/Desktop/My prog/ECU/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\test_1.dir\\main.cpp.obj -c \"C:\\Users\\a.meskane\\Desktop\\My prog\\ECU\\main.cpp\"",
+  "file": "C:/Users/a.meskane/Desktop/My prog/ECU/main.cpp",
+  "output": "CMakeFiles/test_1.dir/main.cpp.obj"
+}
+]
